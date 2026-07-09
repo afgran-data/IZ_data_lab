@@ -14,6 +14,10 @@ Each chart displays monthly observations since the 1950s, illustrating how infla
 
 # Phillips Curve Series (1/3): Headline CPI
 
+<p align="center">
+  <img src="figures/Inflation_vs_Unemployment_with_Path.png" width="850">
+</p>
+
 ## Overview
 
 Inflation and unemployment have a complex relationship that economists refer to as the **Phillips Curve**.
@@ -52,6 +56,10 @@ Headline CPI can fluctuate sharply even when underlying inflation trends remain 
 
 # Phillips Curve Series (2/3): Core CPI
 
+<p align="center">
+  <img src="figures/CoreCPI_vs_Unemployment_with_Path.png" width="850">
+</p>
+
 ## Overview
 
 Not all inflation measures tell the same story.
@@ -89,6 +97,10 @@ Housing costs represent a significant portion of Core CPI and often respond slow
 ---
 
 # Phillips Curve Series (3/3): Core PCE (Federal Reserve's Preferred Measure)
+
+<p align="center">
+  <img src="figures/CorePCE_vs_Unemployment_with_Path.png" width="850">
+</p>
 
 ## Overview
 
